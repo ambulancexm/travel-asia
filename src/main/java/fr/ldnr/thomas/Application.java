@@ -28,4 +28,6 @@ public class Application {
 		vr.setSuffix(".jsp");
 		return vr;
 	}
+	
+	
 }

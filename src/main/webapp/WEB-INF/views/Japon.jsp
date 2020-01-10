@@ -8,7 +8,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>BIENVENUE EN ASIE</h1>
-	<img alt="c'est l'asie!!!!!" src="/img/asie.png">
+	<h1>BIENVENUE AU JAPON</h1>
+	<img alt="image japon" src="/img/japon.jpeg">
 </body>
 </html>
